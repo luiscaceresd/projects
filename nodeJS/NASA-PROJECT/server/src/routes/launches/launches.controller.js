@@ -6,8 +6,14 @@ const {
 } = require('../../models/launches.model')
 const { exists } = require('../../models/launches.mongo')
 
+const {
+  getPagination
+} = require('../../services/query')
+
 async function httpGetAllLaunches(req, res) {
-  return res.status(200).json(await getAllLaunches())
+  const { skip, limit } = getPagination(req.query)
+  const launches = await getAllLaunches(skip, limit)
+  return res.status(200).json(launches)
 }
 
 async function httpAddNewLaunch(req, res) {
@@ -19,11 +25,11 @@ async function httpAddNewLaunch(req, res) {
     })
   }
 
-  launch.launchDate = new Date(launch.launchDate)
-  if(isNaN(launch.launchDate)){
-    res.status(400).json({
+  launch.launchDate = new Date(launch.launchDate);
+  if (isNaN(launch.launchDate)) {
+    return res.status(400).json({
       error: 'Invalid launch date',
-    })
+    });
   }
 
   await scheduleNewLaunch(launch)
