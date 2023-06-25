@@ -1,0 +1,1026 @@
+@import url(https://fonts.googleapis.com/css2?family=Almarai:wght@400;700&display=swap);
+@charset "UTF-8";
+.car-rental-vehicle-class-description-for-website label {
+  color: #fff;
+  font-weight: 700;
+}
+.car-rental-vehicle-class-recommended {
+  background-color: #93c01f;
+}
+.car-rental-vehicle-class-recommended label {
+  color: #fff;
+  font-weight: 700;
+}
+.car-rental-vehicle-class-limited-availability {
+  background-color: #93c01f;
+}
+.car-rental-vehicle-class-limited-availability label {
+  color: #fff;
+  font-weight: 700;
+}
+.car-rental-selection-alert {
+  background-color: #93c01f;
+}
+.car-rental-selection-alert label {
+  color: #fff;
+  font-weight: 700;
+}
+a,
+body,
+button,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+li,
+select,
+span {
+  font-family: Almarai, sans-serif !important;
+}
+body {
+  background-color: #fff !important;
+  font: 14px Almarai, sans-serif !important;
+}
+body.horizontal-embed-form {
+  background-color: transparent !important;
+}
+.ui-timepicker-list li:hover,
+li.ui-timepicker-selected {
+  background: #93c01f;
+  color: #fff;
+}
+.datepicker table tr td.active.active {
+  background-color: #93c01f;
+  color: #fff;
+}
+.car-rental-active-step-1 .appform .cfield {
+  display: flex;
+}
+.car-rental-show-summary-step-1 .car-rental-main-container {
+  margin-left: 0 !important;
+  max-width: 100% !important;
+}
+.car-rental-show-summary-step-1 #car-rental-reservation-summary {
+  max-width: 100% !important;
+}
+.car-rental-active-step-3 #car-rental-reservation-summary .finalbuttons {
+  position: relative !important;
+}
+.display-1,
+.display-2,
+.display-3,
+.display-4 {
+  font-weight: 300;
+  line-height: 1.2;
+}
+i {
+  color: #93c01f;
+}
+@-webkit-keyframes fadeIn {
+  0% {
+    box-shadow: 0 0 30px #ff0;
+    opacity: 0;
+  }
+  to {
+    box-shadow: none;
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  0% {
+    box-shadow: 0 0 30px #ff0;
+    opacity: 0;
+  }
+  to {
+    box-shadow: none;
+    opacity: 1;
+  }
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: inherit;
+}
+.blockquote,
+hr {
+  margin-bottom: 1rem;
+}
+.h1,
+h1 {
+  font-size: 2.5rem;
+}
+.h2,
+h2 {
+  font-size: 2rem;
+}
+.h3,
+h3 {
+  font-size: 1.75rem;
+}
+.h5,
+h5 {
+  font-size: 1.25rem;
+}
+.h6,
+h6 {
+  font-size: 1rem;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.display-1 {
+  font-size: 6rem;
+}
+.display-2 {
+  font-size: 5.5rem;
+}
+.display-3 {
+  font-size: 4.5rem;
+}
+.display-4 {
+  font-size: 3.5rem;
+}
+hr {
+  border: 0;
+  border-top: 1px solid rgba(44, 44, 44, 0.1);
+  margin-top: 1rem;
+}
+.small,
+small {
+  font-size: 80%;
+  font-weight: 400;
+}
+.mark,
+mark {
+  background-color: #fcf8e3;
+  padding: 0.2em;
+}
+.list-inline,
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
+}
+.list-inline-item {
+  display: inline-block;
+}
+.list-inline-item:not(:last-child) {
+  margin-right: 0.5rem;
+}
+.initialism {
+  font-size: 90%;
+  text-transform: uppercase;
+}
+.blockquote {
+  font-size: 1.25rem;
+}
+.blockquote-footer {
+  color: #6c757d;
+  display: block;
+  font-size: 80%;
+}
+.maincontent-booking {
+  padding-top: 0;
+}
+.maincontent-booking .steps {
+  background: #fff;
+  height: 110px;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+.car-rental-public-booking {
+  background: 0 0;
+  font-family: Almarai, sans-serif !important;
+  padding-bottom: 70px;
+}
+.car-rental-public-booking .container {
+  width: 100%;
+}
+.car-rental-public-booking .car-rental-container,
+.car-rental-public-booking .real-estate-process-container {
+  background: #fff;
+  border: none !important;
+  height: 110px;
+  overflow: hidden;
+}
+.car-rental-public-booking .car-rental-container div.text-left,
+.car-rental-public-booking .real-estate-process-container div.text-left {
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+}
+.car-rental-public-booking .car-rental-container .car-rental-nav-btn.disabled,
+.car-rental-public-booking
+  .car-rental-container
+  .car-rental-nav-btn:nth-of-type(2),
+.car-rental-public-booking
+  .car-rental-container
+  a.real-estate-process-nav-btn.disabled,
+.car-rental-public-booking
+  .car-rental-container
+  button.real-estate-process-nav-btn,
+.car-rental-public-booking .car-rental-container div.pull-right,
+.car-rental-public-booking .car-rental-container div.text-right,
+.car-rental-public-booking .real-estate-process-container div.pull-right,
+.car-rental-public-booking .real-estate-process-container div.text-right {
+  display: block;
+}
+.car-rental-public-booking .car-rental-container .car-rental-nav-btn,
+.car-rental-public-booking .car-rental-container a.real-estate-process-nav-btn,
+.car-rental-public-booking .real-estate-process-container .car-rental-nav-btn,
+.car-rental-public-booking
+  .real-estate-process-container
+  a.real-estate-process-nav-btn {
+  background: 0 0;
+  border: none;
+  opacity: 0.28;
+}
+.car-rental-public-booking .car-rental-container .car-rental-nav-btn:hover,
+.car-rental-public-booking
+  .car-rental-container
+  a.real-estate-process-nav-btn:hover,
+.car-rental-public-booking
+  .real-estate-process-container
+  .car-rental-nav-btn:hover,
+.car-rental-public-booking
+  .real-estate-process-container
+  a.real-estate-process-nav-btn:hover {
+  opacity: 0.8;
+}
+.car-rental-public-booking .real-estate-process-container .car-rental-nav-btn {
+  position: absolute;
+  top: 25px;
+}
+.car-rental-public-booking
+  .car-rental-container
+  a.real-estate-process-nav-btn:first-of-type,
+.car-rental-public-booking
+  .real-estate-process-container
+  a.real-estate-process-nav-btn:first-of-type {
+  top: 24px;
+}
+.car-rental-public-booking .car-rental-container #car-rental-step-navigator,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator {
+  background: 0 0;
+}
+.car-rental-public-booking .car-rental-container #car-rental-step-navigator a,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  a,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  a,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  a {
+  color: inherit;
+}
+.car-rental-public-booking .car-rental-container #car-rental-step-navigator li,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li {
+  border: none;
+  padding: 0 1.4rem 3rem;
+  position: relative;
+}
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li
+  .car-rental-step-name,
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li
+  .real-estate-process-step-name,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li
+  .car-rental-step-name,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li
+  .real-estate-process-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li
+  .car-rental-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li
+  .real-estate-process-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li
+  .car-rental-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li
+  .real-estate-process-step-name {
+  bottom: 0;
+  color: #93c01f;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 4rem;
+}
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li
+  .car-rental-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li
+  .real-estate-process-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li
+  .car-rental-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li
+  .real-estate-process-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li
+  .car-rental-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li
+  .real-estate-process-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li
+  .car-rental-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li
+  .real-estate-process-step-number {
+  background: 0 0;
+  border: 3px solid #93c01f;
+  border-radius: 4.5rem;
+  color: #93c01f;
+  display: inline-block;
+  font-size: 1.3rem;
+  line-height: 1.5rem;
+  margin-top: 6px;
+  padding-bottom: 2rem;
+  padding-top: 0.7rem;
+  text-align: center;
+  width: 50px;
+}
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.current
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.current
+  > span.real-estate-process-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.current
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.current
+  > span.real-estate-process-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.current
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.current
+  > span.real-estate-process-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.current
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.current
+  > span.real-estate-process-step-number {
+  background: #93c01f;
+  color: #fff;
+}
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.current
+  > .car-rental-step-name,
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.current
+  > .real-estate-process-step-name,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.current
+  > .car-rental-step-name,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.current
+  > .real-estate-process-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.current
+  > .car-rental-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.current
+  > .real-estate-process-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.current
+  > .car-rental-step-name,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.current
+  > .real-estate-process-step-name {
+  color: #93c01f;
+}
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.executed
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.executed
+  > span.real-estate-process-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.real-estate-process-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.executed
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.executed
+  > span.real-estate-process-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.car-rental-step-number,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.real-estate-process-step-number {
+  background: #93c01f;
+  color: #fff;
+  font-size: 0;
+}
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.executed
+  > span.car-rental-step-number:after,
+.car-rental-public-booking
+  .car-rental-container
+  #car-rental-step-navigator
+  li.executed
+  > span.real-estate-process-step-number:after,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.car-rental-step-number:after,
+.car-rental-public-booking
+  .car-rental-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.real-estate-process-step-number:after,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.executed
+  > span.car-rental-step-number:after,
+.car-rental-public-booking
+  .real-estate-process-container
+  #car-rental-step-navigator
+  li.executed
+  > span.real-estate-process-step-number:after,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.car-rental-step-number:after,
+.car-rental-public-booking
+  .real-estate-process-container
+  #real-estate-process-step-navigator
+  li.executed
+  > span.real-estate-process-step-number:after {
+  content: "✓";
+  font-size: 1.3rem;
+}
+.car-rental-public-booking .appform.container-fluid {
+  padding: 0 20px;
+}
+.car-rental-public-booking .appform .box {
+  padding-top: 20px !important;
+}
+.car-rental-public-booking .appform .box-summary {
+  cursor: default;
+}
+.car-rental-public-booking .appform .box-summary h2 {
+  color: #93c01f;
+}
+.car-rental-public-booking .appform .checkbox-inline {
+  float: left;
+  text-align: left;
+}
+.car-rental-public-booking .appform .box-fields a.btn-social {
+  margin-bottom: 5px;
+}
+.car-rental-public-booking .appform .box-fields hr {
+  margin-top: 20px !important;
+}
+.car-rental-public-booking .appform .box-fields .panel {
+  margin-top: 10px;
+}
+.car-rental-public-booking
+  .appform
+  .box-fields
+  .panel
+  .panel-heading.text-right
+  .text-center,
+.car-rental-public-booking
+  .appform
+  .box-fields
+  .panel
+  .panel-heading.text-right
+  .text-left {
+  text-align: right !important;
+}
+.car-rental-public-booking #car-rental-reservation-summary .box .box-summary {
+  border-bottom: none;
+}
+.car-rental-public-booking
+  #car-rental-reservation-summary
+  .box
+  .box-summary
+  h2
+  span {
+  display: block;
+  float: none !important;
+  margin: 10px 0 -10px;
+  padding: 20px 0 0;
+}
+.car-rental-public-booking
+  #car-rental-reservation-summary
+  .box
+  .box-summary
+  h2
+  span:first-child {
+  border-top: 1px solid #ccc;
+}
+.car-rental-public-booking #pagehead,
+.car-rental-public-booking .finalbuttons .btn-social {
+  display: none;
+}
+.car-rental-public-booking
+  #car-rental-reservation-summary
+  .box
+  .box-summary
+  h2
+  span
+  select {
+  height: 30px !important;
+}
+.car-rental-public-booking #car-rental-reservation-summary .box .box-fields {
+  padding: 15px;
+}
+.car-rental-public-booking .res-date_time_select .box-fields {
+  background: #fff;
+  border: 1px solid #cbc9c9;
+  padding: 15px;
+}
+.car-rental-public-booking.car-rental-active-step-2 .label-info {
+  background: #fafafa;
+  border: 1px solid #d8d6d6;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  margin: 10px 0;
+  padding: 8px 4px;
+}
+.car-rental-public-booking.car-rental-active-step-2 select#currency {
+  -webkit-animation: fadeIn 0.3s linear 4s 2;
+  animation: fadeIn 0.3s linear 4s 2;
+}
+.car-rental-public-booking.car-rental-active-step-2 .panel-default {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+.car-rental-public-booking .btn.btn-primary:not(.btn-social).focus,
+.car-rental-public-booking .btn.btn-primary:not(.btn-social):focus,
+.car-rental-public-booking
+  .btn.btn-primary:not(.btn-social):not(:disabled):not(.disabled).active:focus,
+.car-rental-public-booking
+  .btn.btn-primary:not(.btn-social):not(:disabled):not(.disabled):active:focus,
+.show
+  > .car-rental-public-booking
+  .btn.btn-primary:not(.btn-social).dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem hsla(0, 0%, 40%, 0.5);
+}
+.car-rental-public-booking.car-rental-active-step-2
+  .panel-default
+  > .panel-heading {
+  background: #fafafa;
+  border: 1px solid #d8d6d6;
+  border-radius: 0;
+}
+.car-rental-public-booking.car-rental-active-step-2
+  .panel-default
+  > .panel-heading
+  h2 {
+  margin-top: 10px;
+}
+.car-rental-public-booking.car-rental-active-step-5 .control-label {
+  font-weight: 700;
+}
+.car-rental-public-booking .panel .panel-heading select {
+  margin-bottom: 8px;
+}
+.car-rental-public-booking .finalbuttons {
+  text-align: right;
+}
+.car-rental-public-booking .finalbuttons input[name="terms_and_conditions"] {
+  left: 20px;
+}
+.car-rental-public-booking .appform .control-label {
+  margin-bottom: 10px;
+}
+.car-rental-public-booking .appform .control-label,
+.car-rental-public-booking .appform label,
+.car-rental-public-booking input[type="email"],
+.car-rental-public-booking input[type="password"],
+.car-rental-public-booking input[type="text"],
+.car-rental-public-booking textarea {
+  border-radius: 0;
+  font-family: Almarai, sans-serif !important;
+}
+.car-rental-public-booking .input-group-addon,
+.car-rental-public-booking select {
+  border-radius: 0;
+}
+.car-rental-public-booking .btn.btn-primary:not(.btn-social),
+.car-rental-public-booking .btn.btn-primary:not(.btn-social).disabled,
+.car-rental-public-booking .btn.btn-primary:not(.btn-social):disabled,
+.car-rental-public-booking .btn.btn-primary:not(.btn-social):hover,
+.car-rental-public-booking
+  .btn.btn-primary:not(.btn-social):not(:disabled):not(.disabled).active,
+.car-rental-public-booking
+  .btn.btn-primary:not(.btn-social):not(:disabled):not(.disabled):active,
+.show
+  > .car-rental-public-booking
+  .btn.btn-primary:not(.btn-social).dropdown-toggle {
+  background-color: #93c01f;
+  border-color: #93c01f;
+  color: #fff;
+}
+.car-rental-public-booking .btn.btn-success.focus,
+.car-rental-public-booking .btn.btn-success:focus,
+.car-rental-public-booking
+  .btn.btn-success:not(:disabled):not(.disabled).active:focus,
+.car-rental-public-booking
+  .btn.btn-success:not(:disabled):not(.disabled):active:focus,
+.show > .car-rental-public-booking .btn.btn-success.dropdown-toggle:focus {
+  box-shadow: hsla(0, 0%, 40%, 0.5);
+}
+.car-rental-public-booking .btn.btn-success {
+  background-color: #fff;
+  border-color: #93c01f;
+  color: #212529;
+}
+.car-rental-public-booking .btn.btn-success:hover {
+  background-color: #93c01f;
+  border-color: #93c01f;
+  color: #fff;
+}
+.car-rental-public-booking .btn.btn-success.disabled,
+.car-rental-public-booking .btn.btn-success:disabled {
+  background-color: #fff;
+  border-color: #93c01f;
+  color: #212529;
+}
+.car-rental-public-booking
+  .btn.btn-success:not(:disabled):not(.disabled).active,
+.car-rental-public-booking
+  .btn.btn-success:not(:disabled):not(.disabled):active {
+  background-color: #e6e6e6;
+  border-color: #93c01f;
+  color: #212529;
+}
+.car-rental-public-booking .btn.btn-warning {
+  width: 100%;
+}
+.car-rental-public-booking .btn.btn-warning,
+.car-rental-public-booking .btn.btn-warning:hover {
+  background-color: #232323;
+  border-color: #232323;
+  color: #fff;
+}
+.car-rental-public-booking .btn.btn-warning.disabled,
+.car-rental-public-booking .btn.btn-warning:disabled {
+  background-color: #fff;
+  border-color: #232323;
+  color: #fff;
+}
+.car-rental-public-booking .btn.btn-warning.active,
+.car-rental-public-booking .btn.btn-warning:active {
+  background-color: #232323;
+  border-color: #232323;
+  color: #fff;
+}
+.show > .car-rental-public-booking .btn.btn-success.dropdown-toggle {
+  background-color: #e6e6e6;
+  border-color: #93c01f;
+  color: #212529;
+}
+.car-rental-public-booking .panel .btn.btn-success {
+  width: 100%;
+}
+input[type="checkbox"].payment_gateways_method,
+input[type="radio"].payment_gateways_method {
+  margin: 4px 10px 0 0;
+}
+.car-rental-no-steps-menu .appform {
+  padding-top: 8rem;
+}
+.caag-software-pre-loader {
+  background: url(image.svg) 50% 50% no-repeat !important;
+}
+.car-rental-step-2-price-column .label-info {
+  background: #93c01f !important;
+}
+.car-rental-active-step-6 .btn-group > .btn {
+  background-color: #93c01f;
+  border-color: #93c01f;
+  border-radius: 0;
+  color: #fff;
+}
+.car-rental-public-contact-add i,
+a i {
+  color: #93c01f !important;
+}
+.datepicker table tr td.active.active,
+.datepicker table tr td.active.highlighted.active,
+.datepicker table tr td.active.highlighted:active,
+.datepicker table tr td.active.highlighted:hover,
+.datepicker table tr td.active:active,
+.datepicker table tr td.active:hover {
+  background-color: #93c01f !important;
+  border-color: #93c01f !important;
+}
+.car-rental-nav-btn-back {
+  left: 5px !important;
+  position: absolute !important;
+}
+.car-rental-nav-btn-next {
+  position: absolute !important;
+  right: 5px !important;
+}
+@media (max-width: 767px) {
+  .car-rental-public-booking.car-rental-active-step-2 .panel-default {
+    margin-top: 10px;
+  }
+  .car-rental-step-name {
+    display: inline !important;
+  }
+  .car-rental-public-booking .appform.container-fluid {
+    padding: 20px;
+  }
+}
+@media (min-width: 768px) {
+  .car-rental-public-booking.car-rental-active-step-1 .appform > .row > div {
+    flex: 0 0 66.66667%;
+    margin-left: 16.66667%;
+    max-width: 66.66667%;
+  }
+}
+@media (max-width: 575px) {
+  .car-rental-public-booking
+    .car-rental-container
+    #car-rental-step-navigator
+    li.executed,
+  .car-rental-public-booking
+    .car-rental-container
+    #real-estate-process-step-navigator
+    li.executed,
+  .car-rental-public-booking
+    .real-estate-process-container
+    #car-rental-step-navigator
+    li.executed,
+  .car-rental-public-booking
+    .real-estate-process-container
+    #real-estate-process-step-navigator
+    li.executed {
+    display: none;
+  }
+  .car-rental-public-booking .btn,
+  .car-rental-public-booking .btn-group {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}
+@media (min-width: 993px) {
+  .car-rental-public-booking.car-rental-active-step-1 .appform > .row > div {
+    flex: 0 0 66.66667%;
+    margin-left: 16.66667%;
+    max-width: 66.66667%;
+  }
+  .car-rental-public-booking.car-rental-active-step-1
+    .box-fields
+    > .row
+    > .col-md-3,
+  .car-rental-public-booking.car-rental-active-step-1
+    .box-fields
+    > .row
+    > .form-group.col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    width: 100%;
+  }
+}
+#public_pagehead {
+  display: none;
+}
+.select2-container,
+.select2-container a {
+  border-radius: 0 !important;
+}
+.has-error .form-group {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#payment-gateways-submit-button-form {
+  background-color: #93c01f;
+  color: #fff;
+}
+#payment-gateways-form-wrapper .active a {
+  background-color: #93c01f;
+}
+#payment-gateways-form-wrapper .pull-right.normal-font {
+  color: #93c01f;
+}
+.car-rental-step-2-description-column i {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.car-rental-active-step-6 .car-rental-main-container .btn.btn-primary {
+  background-color: #93c01f;
+  border-color: #93c01f;
+  color: #fff;
+}
+.car-rental-active-step-6 .car-rental-main-container .btn {
+  background-color: #fff;
+  border: 2px solid #93c01f;
+  color: #93c01f;
+}
+.car-rental-active-step-6 .active a,
+.car-rental-active-step-6 button {
+  height: 32px !important;
+}
+.car-rental-active-step-6 .nav > li > a {
+  padding: 8px 15px !important;
+}
+.nav-pills > li > a {
+  border-radius: 2px !important;
+}
+.car-rental-reservation-summary-title .pull-right {
+  margin-right: 0 !important;
+}
+.car-rental-terms-and-conditions-wrapper,
+.car-rental-terms-and-conditions-wrapper .cfield-content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.row.car-rental-amount-required-to-reserve .col-md-12,
+.row.car-rental-security-deposit-excess .col-md-12,
+.row.car-rental-security-deposit .col-md-12 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+.car-rental-summary-total-price .pull-right.normal-font {
+  font-size: 18px !important;
+}
+@media only screen and (max-width: 1024px) {
+  body.horizontal-embed-form .form-outer-wrapper-dates {
+    padding-right: 10px !important;
+  }
+}
+body.horizontal-embed-form .appform {
+  background-color: #93c01f !important;
+  border-radius: 50px;
+}
+body.horizontal-embed-form .form-submit-button {
+  background-color: #93c01f !important;
+  border-color: #93c01f !important;
+}
+body.horizontal-embed-form .form-submit-button i {
+  color: #000 !important;
+}
+body.horizontal-embed-form .form-outer-wrapper {
+  border-right-color: #000 !important;
+}
+.fa-signature {
+  color: #fff !important;
+}
+.fa-pencil-alt {
+  display: none;
+}
+.car-rental-summary-price-unit {
+  color: #fff;
+}

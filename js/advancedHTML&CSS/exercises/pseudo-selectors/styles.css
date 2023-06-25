@@ -1,0 +1,21 @@
+li::selection {
+  color:brown;
+  background-color: aqua;
+  line-height: 1;
+}
+
+li::marker {
+  color: violet;
+  content: '*-* ';
+  font-size: 1.1em;
+}
+
+li::before {
+  color: red;
+  content: '¿'
+}
+
+li::after {
+  color: red;
+  content: '?';
+}
