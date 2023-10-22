@@ -1,0 +1,10 @@
+L:\projects\C#\CaceresLab2\CaceresLab2\bin\Debug\CaceresLab2.exe.config
+L:\projects\C#\CaceresLab2\CaceresLab2\bin\Debug\CaceresLab2.exe
+L:\projects\C#\CaceresLab2\CaceresLab2\bin\Debug\CaceresLab2.pdb
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.csproj.AssemblyReference.cache
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.Form1.resources
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.Properties.Resources.resources
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.csproj.GenerateResource.cache
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.csproj.CoreCompileInputs.cache
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.exe
+L:\projects\C#\CaceresLab2\CaceresLab2\obj\Debug\CaceresLab2.pdb

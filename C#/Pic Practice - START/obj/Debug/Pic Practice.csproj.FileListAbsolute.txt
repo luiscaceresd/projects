@@ -1,0 +1,20 @@
+C:\0-Fall2020\C#\Projects\Pic Practice\bin\Debug\Pic Practice.exe.config
+C:\0-Fall2020\C#\Projects\Pic Practice\bin\Debug\Pic Practice.exe
+C:\0-Fall2020\C#\Projects\Pic Practice\bin\Debug\Pic Practice.pdb
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic Practice.csprojAssemblyReference.cache
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic_Practice.Form1.resources
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic_Practice.Properties.Resources.resources
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic Practice.csproj.GenerateResource.cache
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic Practice.csproj.CoreCompileInputs.cache
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic Practice.exe
+C:\0-Fall2020\C#\Projects\Pic Practice\obj\Debug\Pic Practice.pdb
+L:\projects\C#\Pic Practice - START\bin\Debug\Pic Practice.exe.config
+L:\projects\C#\Pic Practice - START\bin\Debug\Pic Practice.exe
+L:\projects\C#\Pic Practice - START\bin\Debug\Pic Practice.pdb
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic Practice.csproj.AssemblyReference.cache
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic_Practice.Form1.resources
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic_Practice.Properties.Resources.resources
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic Practice.csproj.GenerateResource.cache
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic Practice.csproj.CoreCompileInputs.cache
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic Practice.exe
+L:\projects\C#\Pic Practice - START\obj\Debug\Pic Practice.pdb

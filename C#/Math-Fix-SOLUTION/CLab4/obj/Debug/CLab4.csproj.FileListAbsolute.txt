@@ -1,0 +1,62 @@
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\bin\Debug\CLab4.exe.config
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\bin\Debug\CLab4.exe
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\bin\Debug\CLab4.pdb
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.csprojAssemblyReference.cache
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.Form1.resources
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.Properties.Resources.resources
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.GenerateResource.cache
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.CoreCompileInputs.cache
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.exe
+C:\CathyB\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Labs\Labs 2019\Lab4 - Variables and Math - New\CLab4\CLab4\CLab4\obj\Debug\CLab4.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\bin\Debug\CLab4.exe.config
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\bin\Debug\CLab4.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\bin\Debug\CLab4.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.Form1.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.Properties.Resources.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2021\C#\Labs\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\bin\Debug\CLab4.exe.config
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\bin\Debug\CLab4.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\bin\Debug\CLab4.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.Form1.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.Properties.Resources.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Labs\2021\Lab4-New\CLab4-Start\CLab4\CLab4\CLab4\obj\Debug\CLab4.pdb
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\bin\Debug\CLab4.exe.config
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\bin\Debug\CLab4.exe
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\bin\Debug\CLab4.pdb
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.Form1.resources
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.Properties.Resources.resources
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.exe
+C:\Users\cathy.burchill\Downloads\Math-Fix-START\Math-Fix-START\CLab4\obj\Debug\CLab4.pdb
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\bin\Debug\CLab4.exe.config
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\bin\Debug\CLab4.exe
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\bin\Debug\CLab4.pdb
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.csproj.AssemblyReference.cache
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.Form1.resources
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.Properties.Resources.resources
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.csproj.GenerateResource.cache
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.csproj.CoreCompileInputs.cache
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.exe
+C:\Demos\5-Math-Fix-SOLUTION\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.pdb
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\bin\Debug\CLab4.exe.config
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\bin\Debug\CLab4.exe
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\bin\Debug\CLab4.pdb
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.csproj.AssemblyReference.cache
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.Form1.resources
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.Properties.Resources.resources
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.csproj.GenerateResource.cache
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.csproj.CoreCompileInputs.cache
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.exe
+L:\projects\C#\Math-Fix-SOLUTION\CLab4\obj\Debug\CLab4.pdb
