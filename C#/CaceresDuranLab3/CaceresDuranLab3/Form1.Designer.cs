@@ -39,12 +39,14 @@
             this.btnCalculate = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
+            this.picHouse = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.picHouse)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(13, 13);
+            this.label1.Location = new System.Drawing.Point(13, 15);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(73, 19);
             this.label1.TabIndex = 0;
@@ -60,7 +62,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(42, 49);
+            this.label2.Location = new System.Drawing.Point(42, 51);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(44, 19);
             this.label2.TabIndex = 2;
@@ -68,18 +70,17 @@
             // 
             // lblRate
             // 
-            this.lblRate.AutoSize = true;
             this.lblRate.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblRate.Location = new System.Drawing.Point(92, 49);
+            this.lblRate.Location = new System.Drawing.Point(89, 50);
             this.lblRate.Name = "lblRate";
-            this.lblRate.Size = new System.Drawing.Size(51, 21);
+            this.lblRate.Size = new System.Drawing.Size(100, 21);
             this.lblRate.TabIndex = 3;
-            this.lblRate.Text = "2.99%";
+            this.lblRate.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(38, 84);
+            this.label3.Location = new System.Drawing.Point(38, 87);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(48, 19);
             this.label3.TabIndex = 4;
@@ -87,7 +88,7 @@
             // 
             // txtYears
             // 
-            this.txtYears.Location = new System.Drawing.Point(92, 84);
+            this.txtYears.Location = new System.Drawing.Point(89, 83);
             this.txtYears.Name = "txtYears";
             this.txtYears.Size = new System.Drawing.Size(100, 27);
             this.txtYears.TabIndex = 1;
@@ -95,7 +96,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 123);
+            this.label4.Location = new System.Drawing.Point(12, 124);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(143, 19);
             this.label4.TabIndex = 6;
@@ -106,36 +107,49 @@
             this.lblMortgage.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblMortgage.Location = new System.Drawing.Point(162, 120);
             this.lblMortgage.Name = "lblMortgage";
-            this.lblMortgage.Size = new System.Drawing.Size(97, 27);
+            this.lblMortgage.Size = new System.Drawing.Size(100, 27);
             this.lblMortgage.TabIndex = 7;
             // 
             // btnCalculate
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(17, 170);
+            this.btnCalculate.Location = new System.Drawing.Point(17, 191);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(100, 50);
             this.btnCalculate.TabIndex = 2;
             this.btnCalculate.Text = "&Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // btnReset
             // 
             this.btnReset.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnReset.Location = new System.Drawing.Point(123, 170);
+            this.btnReset.Location = new System.Drawing.Point(123, 191);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(100, 50);
             this.btnReset.TabIndex = 3;
             this.btnReset.Text = "&Reset";
             this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(229, 170);
+            this.btnExit.Location = new System.Drawing.Point(229, 191);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(100, 50);
             this.btnExit.TabIndex = 4;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // picHouse
+            // 
+            this.picHouse.Image = global::CaceresDuranLab3.Properties.Resources.houseImage;
+            this.picHouse.Location = new System.Drawing.Point(369, 36);
+            this.picHouse.Name = "picHouse";
+            this.picHouse.Size = new System.Drawing.Size(183, 192);
+            this.picHouse.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picHouse.TabIndex = 8;
+            this.picHouse.TabStop = false;
             // 
             // Form1
             // 
@@ -145,6 +159,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.CancelButton = this.btnReset;
             this.ClientSize = new System.Drawing.Size(564, 271);
+            this.Controls.Add(this.picHouse);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.btnCalculate);
@@ -160,6 +175,8 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Mortgage Calculator by Luis Caceres";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.picHouse)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -178,6 +195,7 @@
         private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.PictureBox picHouse;
     }
 }
 

@@ -1,0 +1,10 @@
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.csproj.AssemblyReference.cache
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.Form1.resources
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.Properties.Resources.resources
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.csproj.GenerateResource.cache
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.csproj.CoreCompileInputs.cache
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\bin\Debug\CaceresDuranLab3.exe.config
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\bin\Debug\CaceresDuranLab3.exe
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\bin\Debug\CaceresDuranLab3.pdb
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.exe
+L:\Stuff\projects\C#\CaceresDuranLab3\CaceresDuranLab3\obj\Debug\CaceresDuranLab3.pdb
