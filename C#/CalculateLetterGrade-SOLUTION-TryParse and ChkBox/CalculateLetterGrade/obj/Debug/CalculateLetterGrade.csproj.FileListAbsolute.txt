@@ -1,0 +1,87 @@
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Download\Instructor\Extra exercises\Exercise starts\Chapter 03\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\10-11-IF-CalculateLetterGrade-Solution\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\10-17-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\7-IF-CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-START\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\cathy.burchill\Downloads\CalculateLetterGrade-SOLUTION\CalculateLetterGrade-SOLUTION\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb

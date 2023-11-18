@@ -46,7 +46,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(13, 15);
+            this.label1.Location = new System.Drawing.Point(17, 15);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(73, 19);
             this.label1.TabIndex = 0;
@@ -62,7 +62,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(42, 51);
+            this.label2.Location = new System.Drawing.Point(46, 63);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(44, 19);
             this.label2.TabIndex = 2;
@@ -71,7 +71,7 @@
             // lblRate
             // 
             this.lblRate.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblRate.Location = new System.Drawing.Point(89, 50);
+            this.lblRate.Location = new System.Drawing.Point(89, 62);
             this.lblRate.Name = "lblRate";
             this.lblRate.Size = new System.Drawing.Size(100, 21);
             this.lblRate.TabIndex = 3;
@@ -80,7 +80,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(38, 87);
+            this.label3.Location = new System.Drawing.Point(42, 111);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(48, 19);
             this.label3.TabIndex = 4;
@@ -88,7 +88,7 @@
             // 
             // txtYears
             // 
-            this.txtYears.Location = new System.Drawing.Point(89, 83);
+            this.txtYears.Location = new System.Drawing.Point(89, 107);
             this.txtYears.Name = "txtYears";
             this.txtYears.Size = new System.Drawing.Size(100, 27);
             this.txtYears.TabIndex = 1;
@@ -96,7 +96,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 124);
+            this.label4.Location = new System.Drawing.Point(13, 159);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(143, 19);
             this.label4.TabIndex = 6;
@@ -105,14 +105,15 @@
             // lblMortgage
             // 
             this.lblMortgage.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblMortgage.Location = new System.Drawing.Point(162, 120);
+            this.lblMortgage.Location = new System.Drawing.Point(158, 157);
             this.lblMortgage.Name = "lblMortgage";
             this.lblMortgage.Size = new System.Drawing.Size(100, 27);
             this.lblMortgage.TabIndex = 7;
+            this.lblMortgage.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCalculate
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(17, 191);
+            this.btnCalculate.Location = new System.Drawing.Point(17, 207);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(100, 50);
             this.btnCalculate.TabIndex = 2;
@@ -123,7 +124,7 @@
             // btnReset
             // 
             this.btnReset.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnReset.Location = new System.Drawing.Point(123, 191);
+            this.btnReset.Location = new System.Drawing.Point(123, 207);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(100, 50);
             this.btnReset.TabIndex = 3;
@@ -133,7 +134,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(229, 191);
+            this.btnExit.Location = new System.Drawing.Point(229, 207);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(100, 50);
             this.btnExit.TabIndex = 4;
@@ -174,6 +175,7 @@
             this.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mortgage Calculator by Luis Caceres";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picHouse)).EndInit();

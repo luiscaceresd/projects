@@ -1,0 +1,49 @@
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\bin\Debug\Trace.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\obj\Debug\Trace.csprojResolveAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\obj\Debug\Trace.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\obj\Debug\Trace.csproj.GenerateResource.Cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\bin\Debug\Trace.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\bin\Debug\Trace.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\obj\Debug\Trace.frmTrace.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\obj\Debug\Trace.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2017\C#\Projects\Trace\Trace\obj\Debug\Trace.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\bin\Debug\Trace.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\bin\Debug\Trace.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\bin\Debug\Trace.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.csprojAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.frmTrace.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.csproj.GenerateResource.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.csproj.CoreCompileInputs.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2018\C#\Projects\Trace\Trace\obj\Debug\Trace.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\bin\Debug\Trace.exe.config
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\bin\Debug\Trace.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\bin\Debug\Trace.pdb
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\obj\Debug\Trace.csprojAssemblyReference.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\obj\Debug\Trace.frmTrace.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\obj\Debug\Trace.Properties.Resources.resources
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\obj\Debug\Trace.csproj.GenerateResource.cache
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\obj\Debug\Trace.exe
+C:\0-Data\1-Teaching\00-September Courses\0-Sept 2019\C#\Projects\8-Trace\Trace\obj\Debug\Trace.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\bin\Debug\Trace.exe.config
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\bin\Debug\Trace.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\bin\Debug\Trace.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.csproj.SuggestedBindingRedirects.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.frmTrace.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.Properties.Resources.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2022\C#\Projects\0-Last Year\10-Trace\8-Trace\Trace\obj\Debug\Trace.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\bin\Debug\Trace.exe.config
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\bin\Debug\Trace.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\bin\Debug\Trace.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.frmTrace.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.Properties.Resources.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Handouts\Trace\Trace\8-Trace\Trace\obj\Debug\Trace.pdb

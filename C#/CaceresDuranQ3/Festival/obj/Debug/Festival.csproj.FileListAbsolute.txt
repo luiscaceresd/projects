@@ -1,0 +1,20 @@
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\bin\Debug\Festival.exe.config
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\bin\Debug\Festival.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\bin\Debug\Festival.pdb
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.csproj.AssemblyReference.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.Form1.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.Properties.Resources.resources
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.csproj.GenerateResource.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.csproj.CoreCompileInputs.cache
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.exe
+C:\Users\cathy.burchill\OneDrive - NBCC\1-Teaching\01-September Courses\0-Sept-2023\C#\Quizzes\2023\Festival\Festival\obj\Debug\Festival.pdb
+L:\Stuff\projects\C#\Festival\Festival\bin\Debug\Festival.exe.config
+L:\Stuff\projects\C#\Festival\Festival\bin\Debug\Festival.exe
+L:\Stuff\projects\C#\Festival\Festival\bin\Debug\Festival.pdb
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.csproj.AssemblyReference.cache
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.Form1.resources
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.Properties.Resources.resources
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.csproj.GenerateResource.cache
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.csproj.CoreCompileInputs.cache
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.exe
+L:\Stuff\projects\C#\Festival\Festival\obj\Debug\Festival.pdb
